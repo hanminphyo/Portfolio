@@ -1,0 +1,137 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zNF9hYnN0cmFjdF9ncmFkaWVudF9uZW9uX2JhY2tncm91bmRfd2F2eV9kb3RzX18zMjEyOGFlZS1mYzJiLTRkMmMtODI2Ni01ZjAxZjBhMDFmMjZfMS5qcGc.jpg);
+  width: 100vw;
+  height: auto;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#head {
+  width: 95%;
+  margin: 10px auto;
+  text-align: center;
+}
+#head h1 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #ffc;
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+#head img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+#head p {
+  text-align: left;
+  padding-top: 20px;
+  margin-left: 10px;
+  color: #ffc;
+  font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.skill {
+  width: 95%;
+  margin: 10px auto;
+  text-align: left;
+}
+.skill h2 {
+  padding-top: 10px;
+  border-bottom: 4px solid #8d99ae;
+  color: #ffc;
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.skill li {
+  padding-top: 10px;
+  list-style: none;
+  color: #ffc;
+  font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.projects {
+  width: 95%;
+  margin: 10px auto;
+  text-align: left;
+}
+.projects h2 {
+  padding-top: 10px;
+  border-bottom: 4px solid #8d99ae;
+  color: #ffc;
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.projects li {
+  padding-top: 10px;
+  list-style: none;
+  color: #ffc;
+  font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.contact {
+  width: 95%;
+  margin: 10px auto;
+  text-align: left;
+}
+.contact h2 {
+  border-bottom: 4px solid #8d99ae;
+  color: #ffc;
+}
+.contact h2,
+h5 {
+  padding-top: 10px;
+  color: #ffc;
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.contact p {
+  padding-top: 10px;
+  color: #ffc;
+  font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.contact ul {
+  padding-top: 10px;
+}
+.contact ul li {
+  padding-top: 10px;
+  list-style: none;
+  color: #ffc;
+  font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.contact li a {
+  text-decoration: none;
+  color: #ffc;
+  padding-left: 13px;
+  font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.social-items {
+  color: #ffc;
+  margin: 10px;
+}
+.social-items i {
+  padding: 15px;
+  font-size: 30px;
+}
+.social-items i:hover{
+  color: blue;
+}
